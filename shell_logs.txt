@@ -1,0 +1,20 @@
+500  git clone git@github.com:middela07/mastery-version-gamma.git
+  501  ls
+  502  make snow
+  503  make doc
+  504  make dopey
+  505  make grumpy
+  506  make happy
+  507  make snow
+  508  bin/second_trie
+  509  bin/second_trie -x testcases/many-finds.in
+  510  make happy
+  511  make doc
+  512  gdb bin/second_trie
+  513  make happy
+  514  make snow
+  515  trie_ref -x testcases/many-finds.in
+  516  make dopey
+  517  make grumpy
+  518  touch shell_logs.txt
+  519  history
